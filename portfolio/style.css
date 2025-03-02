@@ -1,0 +1,22 @@
+*{
+    font-family: 'Poppins',sans-serif;
+}
+.banner{
+    background-image: url(/WhatsApp\ Image\ 2025-02-12\ at\ 8.09.46\ PM.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+.skills{
+    background-color: rgba(235, 235, 235, 0.911);
+    padding: 65px;
+}
+.contact{
+    padding:65px;
+}
+.card:hover{
+    background-color: rgb(246, 250, 230);
+}
+.n:hover{
+    color: rgb(209, 127, 79);
+}
